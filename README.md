@@ -20,7 +20,7 @@ This repository showcases several fundamental and advanced techniques in **text 
 - **Naive Bayes Classifier**: Text classification using the Naive Bayes algorithm (GaussianNB).
 - **Web Crawling**: Crawling websites to extract news stories with domain filtering.
 
-![Text Processing GIF]([https://media.giphy.com/media/cuo04RbNbCFjy/giphy-downsized.gif](https://cdn.dribbble.com/users/19894/screenshots/3359384/grammerly-keyboard.gif))
+![Text Processing](https://cdn.dribbble.com/users/19894/screenshots/3359384/grammerly-keyboard.gif)
 
 ---
 
@@ -79,7 +79,8 @@ Text-Document-Processing/
 ├── README.md                # Project documentation
 ```
 Running the Code
-Clone the repository: 
+Clone the repository:
+
 git clone [https://github.com/Someshdiwan/Text-Document-Processing](https://github.com/Someshdiwan/Information-Retrieval)
 
 ---
