@@ -82,11 +82,12 @@ Running the Code
 Clone the repository: 
 git clone [https://github.com/Someshdiwan/Text-Document-Processing](https://github.com/Someshdiwan/Information-Retrieval)
 
-```
-```
+---
+
 🌟 Show Your Support
 If you like this project, please consider giving it a ⭐ on GitHub!
 
 🤝 Contributing
 We welcome contributions to improve the repository! If you have any enhancements, bug fixes, or new project ideas, feel free to fork the repository, make changes, and submit a pull request.
-```
+
+---
